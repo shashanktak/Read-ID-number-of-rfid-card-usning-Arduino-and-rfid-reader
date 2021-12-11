@@ -15,7 +15,6 @@ After buying this tool you can perform this task , and upload my given code to p
 /* Pin layout should be as follows:
  * Signal     Pin              Pin               Pin
  *            Arduino Uno      Arduino Mega      MFRC522 board
- * ------------------------------------------------------------
  * Reset      9                5                 RST
  * SPI SS     10               53                SDA
  * SPI MOSI   11               51                MOSI
