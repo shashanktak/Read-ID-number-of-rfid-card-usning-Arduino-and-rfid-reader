@@ -11,9 +11,6 @@
  
  
  * voltage 3.3v  
- 
-Download Libraries:
-https://www.electroniclinic.com/arduino-libraries-download-and-projects-they-are-used-in-project-codes/
  */
  
 #include <SPI.h>
